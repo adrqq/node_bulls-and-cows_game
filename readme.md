@@ -1,7 +1,8 @@
 # The "Bulls & Cows" game
 
-[PLAY IT]() in Sandbox terminal.
-Just make fork press continue without an account then open a new terminal and type the command npm run play or node src/app.js
+[PLAY IT](https://codesandbox.io/s/node-bulls-and-cows-game-tnwou5) in Sandbox terminal.
+Just make fork (if you don't have an account code sandbox will require to sign up but this is the easiest way to play game)
+then open a new terminal and type the command **npm run play** or **node src/app.js**
 
 **Rules**
 
