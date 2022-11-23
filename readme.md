@@ -1,8 +1,9 @@
 # The "Bulls & Cows" game
 
-**Read [the guideline](https://github.com/mate-academy/js_task-guideline/blob/master/README.md) before start**
+[PLAY IT]() in Sandbox terminal.
+Just make fork press continue without an account then open a new terminal and type the command npm run play or node src/app.js
 
-Implement `Bulls and cows` game so the user can run and play it using command line.
+**Rules**
 
 - the program randomly generates a number of 4 different digits
 - and asks a player to guess
